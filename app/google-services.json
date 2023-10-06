@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605139883424",
+    "project_id": "upload-ds3t-daniela",
+    "storage_bucket": "upload-ds3t-daniela.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605139883424:android:3e9327e5f76415107c40c5",
+        "android_client_info": {
+          "package_name": "com.example.upload_ds3t"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFF5K0axBT7dY6ftILs2O_-VcaIYYkeAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
